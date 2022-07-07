@@ -16,7 +16,7 @@ Lyst.com is an apparel and accesories e-commerce website that delivers an immers
 Clone the project
 
 ```bash
-  git clone https://github.com/rhaegar7996/CW_Web19_lyst
+  git clone https://github.com/gautamprajapat8/LYST_Clone.git
 ```
 
 ## Authors
